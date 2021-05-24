@@ -27,7 +27,7 @@ View [live]()
 
 |AUTHOR | CONTACT-Email|Phone|
 |:------|:------------|:-----|
-|Jb|EMAIL|TEL:|
+|Jack OWUOR|EMAIL|TEL:|
 
 ##  Licence Information
 
