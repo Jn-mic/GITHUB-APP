@@ -27,7 +27,7 @@ View [live]()
 
 |AUTHOR | CONTACT-Email|Phone|
 |:------|:------------|:-----|
-|Jack OWUOR|EMAIL|TEL:|
+|Jack Owuor|EMAIL:jackotienokey@gmail.com|TEL:0722713514|
 
 ##  Licence Information
 
