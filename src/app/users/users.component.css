@@ -10,12 +10,12 @@ img{
     padding-top: 6%;
   }
   .card{
-    background-color: lime;
+    background-color: #ee0cb5;
     box-shadow: 3px 3px 5px black;
   }
   #repo{
-    background-color:black;
-    color: black;
+    background-color:#034141;
+    color: rgb(5, 78, 38);
     margin-bottom: 2%;
     border-radius: 4px; 
     box-shadow: 3px 3px 5px black;
@@ -54,6 +54,6 @@ img{
   }
 
   #progress{
-background-color:black;
-color: lime;
+background-color:rgb(161, 155, 155);
+color: hsl(218, 21%, 93%);
   }
