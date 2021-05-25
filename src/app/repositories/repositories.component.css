@@ -1,8 +1,8 @@
 #repo{
 display: flex;
 flex-wrap: wrap;
-justify-content: space-around;
+justify-content: space-between;
 }
-.dec{
+.vi{
     min-height: 95px;
 }
